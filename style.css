@@ -1,0 +1,21 @@
+ body {
+    background-color: rgb(12, 17, 65);
+ }
+
+ h1 {
+    background-color: rgba(105, 198, 235, 0.925);
+    color: rgb(14, 12, 12);
+    letter-spacing: 20px;
+    margin-top: 30px;
+    border-width: 5px;
+    border-color: rgb(206, 167, 250);
+    border-style: solid;
+    border-bottom: 30px solid white;
+    border-radius: 10px;
+    display: inline-block;
+
+ }
+
+ div {
+    text-align: center;
+ }
